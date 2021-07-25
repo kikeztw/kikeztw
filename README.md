@@ -40,5 +40,10 @@
 ### &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/carlos-enrique-hurtado-puente-71573018b/"><img src="https://img.shields.io/badge/-Luis%20Cabezas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kikeztw@gmail.com"><img src="https://img.shields.io/badge/-me@kikeztw.cc-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/carlos-enrique-hurtado-puente-71573018b/">
+    <img src="https://img.shields.io/badge/-Carlos%20Hurtado-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a target="_blank" ref="mailto:kikeztw@gmail.com">
+    <img src="https://img.shields.io/badge/-kikeztw@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+ </a>
+</p
